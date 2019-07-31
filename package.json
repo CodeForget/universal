@@ -69,7 +69,7 @@
     "@angularclass/bootloader": "^1.0.1",
     "@ngrx/effects": "^8.1.0",
     "@ngrx/entity": "^8.1.0",
-    "@ngrx/store": "^8.1.0",
+    "@ngrx/store": "^8.2.0",
     "@nguniversal/common": "^8.1.1",
     "@nguniversal/express-engine": "^8.1.1",
     "@nguniversal/module-map-ngfactory-loader": "^8.1.1",
