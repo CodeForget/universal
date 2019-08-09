@@ -1474,10 +1474,19 @@
     tsconfig-paths-webpack-plugin "3.2.0"
     webpack-node-externals "1.7.2"
 
-"@nrwl/jest@8.4.0", "@nrwl/jest@^8.4.0":
+"@nrwl/jest@8.4.0":
   version "8.4.0"
   resolved "https://registry.yarnpkg.com/@nrwl/jest/-/jest-8.4.0.tgz#f0ea5e1eaf6c25d23557dc0b2ed521b7e48cfd9f"
   integrity sha512-LrW+szxWMSpgyCQPEqCip1/9m+iex61HgjZ05uyWJTuMmQ3sxBNfTn8IB6ie5rATLrMDou7CTBZEiEFC6e3/Qw==
+  dependencies:
+    "@angular-devkit/architect" "0.801.1"
+    "@angular-devkit/core" "8.1.1"
+    "@angular-devkit/schematics" "8.1.1"
+
+"@nrwl/jest@^8.4.7":
+  version "8.4.7"
+  resolved "https://registry.yarnpkg.com/@nrwl/jest/-/jest-8.4.7.tgz#42184d1363f7722a7ce76df2a461e0549b17b7ff"
+  integrity sha512-IKzWfHleYOh+AGSPhfp80njCJNCNWsM2R+ruNkQKvqFRhsAwSx9Nxf0zlcu/Acmu79SXxK7tZUMH7Y6dyxgbiw==
   dependencies:
     "@angular-devkit/architect" "0.801.1"
     "@angular-devkit/core" "8.1.1"
