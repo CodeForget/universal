@@ -1440,14 +1440,14 @@
     "@nodelib/fs.scandir" "2.1.1"
     fastq "^1.6.0"
 
-"@nrwl/angular@^8.4.0":
-  version "8.4.0"
-  resolved "https://registry.yarnpkg.com/@nrwl/angular/-/angular-8.4.0.tgz#edfa9105f43f48e27ca2500ccab98655db06135d"
-  integrity sha512-gdDUP2Zxa170saqSb8INZv0Hteg/CZpDQIu/+yTinVH0LMEgRUx9yBQjjrua94mgMjLP3qIbICtlFg0X0gRf3w==
+"@nrwl/angular@^8.4.7":
+  version "8.4.7"
+  resolved "https://registry.yarnpkg.com/@nrwl/angular/-/angular-8.4.7.tgz#99f58cf6102d9f1974be95cd239966295dd3d66a"
+  integrity sha512-1ZVIRURPsaMuhc0FDClXyCRu4PqyjhaexDbWPvV7tBEjv//t5LDktUFw2W9x0ZZmWVHcA5cRhMvftb07lNBN2g==
   dependencies:
     "@angular-devkit/schematics" "8.1.1"
-    "@nrwl/cypress" "8.4.0"
-    "@nrwl/jest" "8.4.0"
+    "@nrwl/cypress" "8.4.7"
+    "@nrwl/jest" "8.4.7"
     "@schematics/angular" "8.1.1"
     jasmine-marbles "~0.6.0"
 
@@ -1461,10 +1461,10 @@
     yargs "^11.0.0"
     yargs-parser "10.0.0"
 
-"@nrwl/cypress@8.4.0":
-  version "8.4.0"
-  resolved "https://registry.yarnpkg.com/@nrwl/cypress/-/cypress-8.4.0.tgz#7fa826492acab6ae31b571194d5720c8cb5488dd"
-  integrity sha512-WreBQci1SLEKJjpUGn4ukB+6RBT0xW0aUXyzJXzBOgKVWOAuTJJDJ94Vwtu2eX/P8hwt3rKwRK3A+v8rhLaEWA==
+"@nrwl/cypress@8.4.7":
+  version "8.4.7"
+  resolved "https://registry.yarnpkg.com/@nrwl/cypress/-/cypress-8.4.7.tgz#cea436a64c933be3660ca84e34ec30030b173bf5"
+  integrity sha512-t8D3RzwtiQ0jgoAZIJqRHtIzlz588U81GZXA4JhqLfdJTXvCS4EQ3DkoOhKgWSsvHWdmjh7V0M3/naBTJmLLOw==
   dependencies:
     "@angular-devkit/architect" "0.801.1"
     "@angular-devkit/core" "8.1.1"
@@ -1474,7 +1474,16 @@
     tsconfig-paths-webpack-plugin "3.2.0"
     webpack-node-externals "1.7.2"
 
-"@nrwl/jest@8.4.0", "@nrwl/jest@^8.4.0":
+"@nrwl/jest@8.4.7":
+  version "8.4.7"
+  resolved "https://registry.yarnpkg.com/@nrwl/jest/-/jest-8.4.7.tgz#42184d1363f7722a7ce76df2a461e0549b17b7ff"
+  integrity sha512-IKzWfHleYOh+AGSPhfp80njCJNCNWsM2R+ruNkQKvqFRhsAwSx9Nxf0zlcu/Acmu79SXxK7tZUMH7Y6dyxgbiw==
+  dependencies:
+    "@angular-devkit/architect" "0.801.1"
+    "@angular-devkit/core" "8.1.1"
+    "@angular-devkit/schematics" "8.1.1"
+
+"@nrwl/jest@^8.4.0":
   version "8.4.0"
   resolved "https://registry.yarnpkg.com/@nrwl/jest/-/jest-8.4.0.tgz#f0ea5e1eaf6c25d23557dc0b2ed521b7e48cfd9f"
   integrity sha512-LrW+szxWMSpgyCQPEqCip1/9m+iex61HgjZ05uyWJTuMmQ3sxBNfTn8IB6ie5rATLrMDou7CTBZEiEFC6e3/Qw==
