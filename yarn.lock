@@ -1451,12 +1451,12 @@
     "@schematics/angular" "8.1.1"
     jasmine-marbles "~0.6.0"
 
-"@nrwl/cli@8.4.0":
-  version "8.4.0"
-  resolved "https://registry.yarnpkg.com/@nrwl/cli/-/cli-8.4.0.tgz#c27b1ec9e9e52ec2d33a76bac257eed751e31636"
-  integrity sha512-QNzE/y+h+j+hYPuW3pum+gPYprAKzMZFeY/M5xfVNGJ1nZU66lIp5+xA0uZugev1NSWYQwTiKEcwgXR9SW7+lg==
+"@nrwl/cli@8.4.10":
+  version "8.4.10"
+  resolved "https://registry.yarnpkg.com/@nrwl/cli/-/cli-8.4.10.tgz#c19d329106a0b28e719b88632776c9b0b4a28172"
+  integrity sha512-t4yjvt+1nlISHEnpVDfBYT58hvqF3d3WInZ4xHbqpqBYLiKOWY4Pls0lDd6QAQiDlbfKcUH6wDYM0G0Y9Drdqg==
   dependencies:
-    "@nrwl/tao" "8.4.0"
+    "@nrwl/tao" "8.4.10"
     tmp "0.0.33"
     yargs "^11.0.0"
     yargs-parser "10.0.0"
@@ -1483,10 +1483,10 @@
     "@angular-devkit/core" "8.1.1"
     "@angular-devkit/schematics" "8.1.1"
 
-"@nrwl/tao@8.4.0":
-  version "8.4.0"
-  resolved "https://registry.yarnpkg.com/@nrwl/tao/-/tao-8.4.0.tgz#8d9740f66c198124cf4f7ccb22736bcfceff7007"
-  integrity sha512-U1cSqWFUB5Ba5DLMI1X1oyEhb5uFZvCYkzxaSiZjaF2+J1BHNpPkm1ImaD6N/r71+Oq8WzbN6oeuunRzoS3URA==
+"@nrwl/tao@8.4.10":
+  version "8.4.10"
+  resolved "https://registry.yarnpkg.com/@nrwl/tao/-/tao-8.4.10.tgz#0fefcd30fc713c04e2c22c984ed036f9f1d09d7a"
+  integrity sha512-9r5PmisRo1l0VHQf31iTGjAIfEcRb45kRBCqZeddX30ojw7rZOMTMaeFSe4u/BXS9CHq8KvfoaA10nMR9T/chw==
   dependencies:
     "@angular-devkit/architect" "0.801.1"
     "@angular-devkit/core" "8.1.1"
@@ -1494,14 +1494,15 @@
     inquirer "^6.3.1"
     minimist "^1.2.0"
 
-"@nrwl/workspace@^8.4.0":
-  version "8.4.0"
-  resolved "https://registry.yarnpkg.com/@nrwl/workspace/-/workspace-8.4.0.tgz#e0f83cb58290e2cab16b8afca7c378c7775d3b6a"
-  integrity sha512-cweW1ltgIxewj8SfS/w0YEB/bo3WaarqCShFGeoropq7W0YkQof00x/f1ldBmKT4CndTgoQIcqIVTpFcHT3yOg==
+"@nrwl/workspace@^8.4.10":
+  version "8.4.10"
+  resolved "https://registry.yarnpkg.com/@nrwl/workspace/-/workspace-8.4.10.tgz#3744ef7907bf98bf92ba9d22ab73f2f8ad6b11cb"
+  integrity sha512-t+JanLhOUcxvTR3n7R5xZnVfou+0tv8aAnWOBklSMXbsvaQ1RDOrHR4eOwX8ego/3n9Ls3D0GQy2+qKNxVE4fg==
   dependencies:
     "@angular-devkit/core" "8.1.1"
     "@angular-devkit/schematics" "8.1.1"
-    "@nrwl/cli" "8.4.0"
+    "@nrwl/cli" "8.4.10"
+    chalk "2.4.2"
     cosmiconfig "4.0.0"
     fs-extra "6.0.0"
     graphviz "0.0.8"
