@@ -127,7 +127,7 @@
     "jest": "^24.8.0",
     "jest-junit-reporter": "^1.1.0",
     "jest-preset-angular": "^7.1.1",
-    "lint-staged": "^9.2.1",
+    "lint-staged": "^9.2.4",
     "ng-bullet": "^1.0.3",
     "ngrx-store-freeze": "^0.2.4",
     "prettier": "^1.18.2",
