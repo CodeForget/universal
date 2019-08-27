@@ -1,0 +1,10 @@
+diff a/src/assets/sass/variables/typography.scss b/src/assets/sass/variables/typography.scss	(rejected hunks)
+@@ -12,4 +12,4 @@ $font-weights: (
+-  //semibold: 600,
+-    //bold: 700,
+-    //black: 800,
+-    //ultra-black: 900
++  //semibold: 600,
++    //bold: 700,
++    //black: 800,
++    //ultra-black: 900

@@ -4,15 +4,15 @@ $font--preferred: 'Roboto', 'Helvetica Neue', 'Arial', sans-serif;
 $font--console: 'Monaco', 'Menlo', 'Consolas', 'Ubuntu Mono', monospace;
 
 $font-weights: (
-  //ultra-light: 100,
-    //light: 200,
-    //book: 300,
+  //ultra-light: 100,
+    //light: 200,
+    //book: 300,
     normal: 400,
   medium: 500,
-  //semibold: 600,
-    //bold: 700,
-    //black: 800,
-    //ultra-black: 900
+  //semibold: 600,
+    //bold: 700,
+    //black: 800,
+    //ultra-black: 900
 );
 $font--normal: map-get($font-weights, normal) !default;
 $font--medium: map-get($font-weights, medium) !default;
